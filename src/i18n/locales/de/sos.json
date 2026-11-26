@@ -1,0 +1,49 @@
+{
+  "_meta": { "status": "needs native review" },
+  "fabLabel": "SOS",
+  "fabAriaLabel": "Notruf und Wingo-Kundensupport (SOS)",
+  "sheetTitle": "Notruf & Support",
+  "offlineBadge": "Offline verfügbar",
+  "disclaimer": "Rufen Sie bei einem lebensbedrohlichen Notfall sofort den Notruf an.",
+  "tapToCall": "Zum Anrufen tippen",
+  "contacts": {
+    "police": {
+      "label": "Polizei",
+      "hint": "Bei Diebstahl, Sicherheitsbedrohungen oder dringender Polizeihilfe vor Ort anrufen."
+    },
+    "ambulance": {
+      "label": "Krankenwagen",
+      "hint": "Bei medizinischen Notfällen, Verletzungen, Hitzschlag oder Krankentransport anrufen."
+    },
+    "fire": {
+      "label": "Feuerwehr",
+      "hint": "Sofort anrufen bei Feuer, Rauch, Gasleck oder Rettungseinsätzen."
+    },
+    "wingoSupport": {
+      "label": "Wingo Tourism Kundensupport",
+      "hint": "Anrufen bei Problemen mit der Rikscha, Tempelzeiten oder Reisehilfe unterwegs."
+    }
+  },
+  "supportCardTitle": "Wingo Tourism Kundensupport",
+  "supportHoursLabel": "Support-Zeiten",
+  "supportHoursValue": "06:00 – 22:00 Uhr IST (Platzhalter)",
+  "languagesLabel": "Unterstützte Sprachen",
+  "emailLabel": "Support-E-Mail",
+  "chatButton": "Mit dem Support chatten",
+  "reportIssueButton": "Problem mit meiner Buchung melden",
+  "verifyLabel": "Vor Launch verifizieren",
+  "chat": {
+    "title": "Wingo Support-Chat (Demo)",
+    "backToSos": "Zurück zu Notruf & Support",
+    "welcomeMsg": "Vanakkam! Wie kann Ihnen unser lokales Team in Madurai & Kumbakonam heute helfen?",
+    "quickTopicsLabel": "Schnellthemen",
+    "topicDriver": "Fahrer hat Verspätung",
+    "topicTemple": "Frage zu Tempelzeiten / Eintritt",
+    "topicFare": "Abweichung beim Rikscha-Preis",
+    "inputPlaceholder": "Nachricht in Ihrer Sprache eingeben...",
+    "send": "Senden",
+    "mockReply": "Vielen Dank für Ihre Nachricht ({{topic}}). Im Live-Betrieb antwortet ein mehrsprachiger Koordinator innerhalb von 2 Minuten. Buchung: {{bookingId}}."
+  },
+  "issueBannerTitle": "Problem mit Ihrer aktiven Buchung melden",
+  "issueBannerBody": "Prüfen Sie Buchung {{bookingId}} unten oder tippen Sie jederzeit auf SOS für Anruf oder Chat."
+}

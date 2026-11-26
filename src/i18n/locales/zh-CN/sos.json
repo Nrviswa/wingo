@@ -1,0 +1,49 @@
+{
+  "_meta": { "status": "needs native review" },
+  "fabLabel": "SOS",
+  "fabAriaLabel": "紧急求助与 Wingo 客服支持 (SOS)",
+  "sheetTitle": "紧急求助与支持",
+  "offlineBadge": "离线可用",
+  "disclaimer": "如遇危及生命的紧急情况，请立即拨打紧急救援电话。",
+  "tapToCall": "点击拨打",
+  "contacts": {
+    "police": {
+      "label": "报警电话",
+      "hint": "遭遇盗窃、人身安全威胁或需要紧急警务协助时拨打。"
+    },
+    "ambulance": {
+      "label": "急救中心",
+      "hint": "突发疾病、外伤、中暑或需要救护车送医时拨打。"
+    },
+    "fire": {
+      "label": "火警电话",
+      "hint": "发生火灾、浓烟、燃气泄漏或需要救援时立即拨打。"
+    },
+    "wingoSupport": {
+      "label": "Wingo 旅游客服支持",
+      "hint": "遇到突突车司机沟通、神庙时间变动或行程协助问题时拨打。"
+    }
+  },
+  "supportCardTitle": "Wingo 旅游客户支持",
+  "supportHoursLabel": "服务时间",
+  "supportHoursValue": "每日 6:00 – 22:00 IST（占位信息）",
+  "languagesLabel": "支持语言",
+  "emailLabel": "客服邮箱",
+  "chatButton": "联系在线客服",
+  "reportIssueButton": "报告我的订单问题",
+  "verifyLabel": "上线前请核实",
+  "chat": {
+    "title": "Wingo 在线客服（演示）",
+    "backToSos": "返回紧急求助与支持",
+    "welcomeMsg": "您好！马杜赖与贡伯戈讷姆本地支持团队今天可以为您做些什么？",
+    "quickTopicsLabel": "常见问题",
+    "topicDriver": "司机迟到",
+    "topicTemple": "神庙开放时间 / 门票疑问",
+    "topicFare": "突突车费用有出入",
+    "inputPlaceholder": "请使用您的语言输入消息...",
+    "send": "发送",
+    "mockReply": "感谢您的反馈（{{topic}}）。正式上线后，多语种本地协调员将在 2 分钟内回复。订单号：{{bookingId}}。"
+  },
+  "issueBannerTitle": "正在反馈当前订单问题",
+  "issueBannerBody": "请在下方查看订单 {{bookingId}}，或随时点击 SOS 拨打电话或联系在线客服。"
+}

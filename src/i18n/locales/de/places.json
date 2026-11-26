@@ -1,0 +1,359 @@
+{
+  "_meta": { "status": "needs native review" },
+  "townSelectTitle": "Welche Stadt möchten Sie heute entdecken?",
+  "townSelectSubtitle": "Wählen Sie eine Traditionsstadt in Tamil Nadu für eine optimal getaktete Tagestour.",
+  "weatherLabel": "Lokales Wetter",
+  "sunriseLabel": "Sonnenaufgang",
+  "sunsetLabel": "Sonnenuntergang",
+  "weatherConditions": {
+    "pleasantDawn": "Angenehme Morgenbrise",
+    "warmSunny": "Warm & sonnig",
+    "breezyEvening": "Mild-luftiger Abend",
+    "partlyCloudy": "Leicht bewölkt & klar"
+  },
+  "towns": {
+    "madurai": {
+      "name": "Madurai",
+      "tagline": "Stadt der Morgengopurams & lebendigen Basare",
+      "description": "Von den 4:00-Uhr-Glocken am Meenakshi-Tempel über Jasmingassen und Nayakkar-Säulenhallen bis zur Abendbrise am Vaigai.",
+      "highlights": "4:00 Uhr Darshan · Nayakkar Mahal · Teppakulam"
+    },
+    "kumbakonam": {
+      "name": "Kumbakonam",
+      "tagline": "Chola-Tempelstadt im grünen Kaveri-Delta",
+      "description": "Uralte Shiva- und Perumal-Schreine, Messinghandwerk, aromatischer Filterkaffee, Mahamaham-Tempelteich und ruhige Kaveri-Ufer.",
+      "highlights": "Mahamaham-Becken · Chola-Bronzen · Kaveri-Ghats"
+    }
+  },
+  "categoriesTitle": "Wählen Sie Ihr Erlebnis",
+  "categoriesSubtitle": "Jede Route verbindet lokale Tagesrhythmen, Pausen und authentische Begegnungen.",
+  "categories": {
+    "temples": {
+      "title": "Tempel",
+      "subtitle": "Morgendlicher Darshan, Baukunst & besondere Gebetszeiten"
+    },
+    "localPlaces": {
+      "title": "Lokale Orte",
+      "subtitle": "Märkte, Paläste, Handwerksbasare & Streetfood"
+    },
+    "riversNature": {
+      "title": "Flüsse & Natur",
+      "subtitle": "Kaveri- & Vaigai-Ufer, Lotusteiche, Hügel & Wasserfälle"
+    },
+    "chillVibes": {
+      "title": "Entspannte Momente",
+      "subtitle": "Abendstimmung am Tempelteich, Hügelbrise & Ruhe"
+    }
+  },
+  "visitorTips": {
+    "title": "Kulturelle Hinweise für internationale Gäste",
+    "subtitle": "Hilfreiche Etikette-Tipps für Tempel und Märkte in Tamil Nadu.",
+    "dressCodeTitle": "Tempel-Kleiderordnung",
+    "dressCodeBody": "Schultern und Knie bedecken (lange Hosen, Röcke oder Tücher). Keine kurzen Hosen oder ärmellosen Tops im Heiligtum.",
+    "shoesTitle": "Schuhe ausziehen",
+    "shoesBody": "Schuhe an der Tempelaufbewahrung abgeben (ca. ₹5–₹10). Baumwollsocken schützen auf warmem Granit.",
+    "photoTitle": "Fotoregeln",
+    "photoBody": "In Außenhöfen oft gegen geringe Gebühr erlaubt; im inneren Sanktum strikt verboten.",
+    "bargainingTitle": "Faires Handeln",
+    "bargainingBody": "Auf Basaren sind freundliche 10–15 % Nachlass üblich; bei kleinen Blumenständen von Frauen bitte fair bleiben.",
+    "safetyTitle": "Komfort & Sicherheit",
+    "safetyBody": "Trinkwasser mitnehmen, ab 10 Uhr Sonnenschutz nutzen und den Rikscha-Preis vorab in Wingo bestätigen."
+  },
+  "items": {
+    "mdu-meenakshi": {
+      "name": "Meenakshi-Amman-Tempel",
+      "summary": "2.500 Jahre altes dravidisches Meisterwerk mit 14 farbenprächtigen Gopurams und der Tausend-Säulen-Halle.",
+      "darshanInfo": "4:00 Uhr Viswaroopa-Darshan; Handys & Taschen an den Ost-/Süd-Schließfächern abgeben.",
+      "dressCode": "Schultern und Knie bedeckt; keine kurzen Hosen oder Ledergürtel.",
+      "feeNote": "Allgemeiner Eintritt frei; ₹100 Sonder-Darshan & Museum extra (vor Launch verifizieren)."
+    },
+    "mdu-thiruparankundram-temple": {
+      "name": "Thiruparankundram-Murugan-Tempel",
+      "summary": "Erstes der sechs Arupadaiveedu-Felsheiligtümer des Gottes Murugan, direkt in Granit gehauen.",
+      "darshanInfo": "Morgen-Abhishekam gegen 6:30 Uhr in ruhiger Felsatmosphäre.",
+      "dressCode": "Zurückhaltende Kleidung; Schuhe am Fuß des Hügels abgeben.",
+      "feeNote": "Eintritt frei."
+    },
+    "mdu-koodal-azhagar": {
+      "name": "Koodal-Azhagar-Perumal-Tempel",
+      "summary": "Seltener dreistöckiger Vishnu-Tempel mit sitzender, stehender und liegender Darstellung.",
+      "darshanInfo": "Ruhiger Vormittags-Darshan; vorsichtig über schmale Steinstufen.",
+      "dressCode": "Schultern und Knie bedeckt.",
+      "feeNote": "Eintritt frei."
+    },
+    "mdu-azhagar-kovil": {
+      "name": "Azhagar Kovil (Kallazhagar-Tempel)",
+      "summary": "Festungsartiger Waldtempel am Fuß der Alagar-Berge, bekannt für duftendes Sandelholz-Prasadam.",
+      "darshanInfo": "Morgens weniger Andrang; Heilquelle Noopura Ganga in der Nähe.",
+      "dressCode": "Bedeckte Kleidung; Snacks vor neugierigen Hügelaffen sichern.",
+      "feeNote": "Eintritt frei; Bergshuttle extra (vor Launch verifizieren)."
+    },
+    "mdu-pazhamudhircholai": {
+      "name": "Pazhamudhircholai-Murugan-Tempel",
+      "summary": "Waldumgebener sechster Murugan-Schrein im Schatten alter Jamun- und Niem-Bäume.",
+      "darshanInfo": "Durchgehend geöffnet; kurze Bergfahrt oberhalb von Azhagar Kovil.",
+      "dressCode": "Bequeme, bedeckte Freizeitkleidung.",
+      "feeNote": "Eintritt frei."
+    },
+    "mdu-thiruparankundram-hill": {
+      "name": "Thiruparankundram-Bergaussicht",
+      "summary": "Frische 5:00-Uhr-Wanderung auf dem Granitkamm mit Blick auf Madurais Seen und Tempeltürme.",
+      "darshanInfo": "Freier Zugang zum Sonnenaufgang; vor 5:45 Uhr Taschenlampe mitnehmen.",
+      "dressCode": "Atmungsaktive Sportkleidung und rutschfeste Schuhe.",
+      "feeNote": "Kostenloser Wanderweg."
+    },
+    "mdu-busy-streets": {
+      "name": "Historische Masi-Straßen & Altstadtspaziergang",
+      "summary": "Konzentrische Tempelstraßen voller Jasmingirlanden, Messingglocken und Baumwollwebereien.",
+      "darshanInfo": "Am schönsten zu Fuß zwischen 7:00 und 8:30 Uhr vor dem Hauptverkehr.",
+      "dressCode": "Leichte Baumwollkleidung und Sonnenhut.",
+      "feeNote": "Kostenloser Stadtspaziergang."
+    },
+    "mdu-nayakkar-mahal": {
+      "name": "Thirumalai-Nayakkar-Palast",
+      "summary": "Palast des 17. Jahrhunderts mit 25 Meter hohen Stuck-Säulen und beeindruckendem Innenhof.",
+      "darshanInfo": "Tickets am Haupttor; Morgenlicht taucht die Kolonnaden in warmes Gold.",
+      "dressCode": "Bequeme Freizeitkleidung.",
+      "feeNote": "₹50 für Inder; höherer Tarif für internationale Gäste (vor Launch verifizieren)."
+    },
+    "mdu-kaikari-sandhai": {
+      "name": "Kaikari Sandhai (Gemüsemarkt)",
+      "summary": "Lebhafter Bauernmarkt mit Madurai-Jasmin, Bananensorten und frischem Blattgemüse.",
+      "darshanInfo": "Beste Auswahl 6:00–11:00 Uhr; Stofftasche und Kleingeld mitnehmen.",
+      "dressCode": "Geschlossene, bequeme Schuhe.",
+      "feeNote": "Eintritt frei."
+    },
+    "mdu-pandi-bazaar": {
+      "name": "Pandi Bazaar & Puthu-Mandapam-Handwerk",
+      "summary": "Traditionsgassen für Sungudi-Batiksaris, Messinglampen und Palmblattkörbe.",
+      "darshanInfo": "Geschäfte öffnen ab ca. 10:00 Uhr; direkter Einkauf bei lokalen Webern.",
+      "dressCode": "Freizeitkleidung.",
+      "feeNote": "Bummel kostenlos."
+    },
+    "mdu-teppakulam-food": {
+      "name": "Teppakulam Streetfood & Jigarthanda",
+      "summary": "Berühmte Abendstände am Teich für gekühltes Jigarthanda, Kari Dosai und lokale Snacks.",
+      "darshanInfo": "Höhepunkt ab 18:30 Uhr entlang der Uferpromenade.",
+      "dressCode": "Lockere Abendkleidung.",
+      "feeNote": "Ca. ₹150 pro Person für Kostproben (vor Launch verifizieren)."
+    },
+    "mdu-vaigai-walk": {
+      "name": "Vaigai-Flussufer & Kuruvithurai-Weg",
+      "summary": "Ruhiger Morgenpfad entlang des historischen Flusses Vaigai und eines alten Wehrs.",
+      "darshanInfo": "Ideal von 6:00–7:30 Uhr bei Morgendunst und Vogelgezwitscher.",
+      "dressCode": "Leichte Baumwolle und Wandersandalen.",
+      "feeNote": "Zugang frei."
+    },
+    "mdu-samanar-hills": {
+      "name": "Samanar Malai (Jain-Höhlen & Lotusteich)",
+      "summary": "2.000 Jahre alte Tamil-Brahmi-Inschriften, Felsreliefs und ein ruhiger Lotusteich.",
+      "darshanInfo": "Sanfter 20-Minuten-Aufstieg; vor der 9:30-Uhr-Sonne besuchen.",
+      "dressCode": "Turnschuhe; Trinkwasser mitbringen.",
+      "feeNote": "Eintritt frei."
+    },
+    "mdu-kutladampatti-falls": {
+      "name": "Kutladampatti-Wasserfall & Öko-Wald",
+      "summary": "Saisonaler Wasserfall am Fuß der Sirumalai-Berge zwischen Tamarinden- und Bambushainen.",
+      "darshanInfo": "Wasserführung je nach Monsun; morgendliche Forstkontrolle erforderlich.",
+      "dressCode": "Schnelltrocknende Kleidung und griffige Schuhe.",
+      "feeNote": "Ca. ₹30 Forstgebühr (vor Launch verifizieren)."
+    },
+    "mdu-kaveri-vaigai-link": {
+      "name": "Madakulam & Nagamalai Vogelteich",
+      "summary": "Ruhiger Bewässerungssee nach Kaveri-Vaigai-Tradition, beliebt bei Störchen und Reihern.",
+      "darshanInfo": "Goldene Stunde 16:30–18:00 Uhr am Ostufer.",
+      "dressCode": "Dezente Naturkleidung.",
+      "feeNote": "Zugang frei."
+    },
+    "mdu-gandhi-lawn": {
+      "name": "Gandhi-Gedenkmuseum (Park & Hof)",
+      "summary": "Schattige Palastgärten und historische Anlage (Hinweis: Ausstellungen freitags geschlossen).",
+      "darshanInfo": "10:00–17:45 Uhr geöffnet außer freitags.",
+      "dressCode": "Angemessene Freizeitkleidung.",
+      "feeNote": "Gartenzugang frei (vor Launch verifizieren)."
+    },
+    "mdu-thiruparankundram-eve": {
+      "name": "Abendlicher Hügel von Thiruparankundram",
+      "summary": "Kühle Brise über den Lichtern von Süd-Madurai und dem erleuchteten Tempelturm.",
+      "darshanInfo": "Sonnenuntergang gegen 18:10 Uhr; entschleunigter Ausklang.",
+      "dressCode": "Leichte Baumwolle.",
+      "feeNote": "Zugang frei."
+    },
+    "mdu-teppakulam-eve": {
+      "name": "Vandiyur Teppakulam Abendteich",
+      "summary": "Riesiges Stufenbecken aus dem 17. Jahrhundert mit beleuchtetem Insel-Mandapam.",
+      "darshanInfo": "Promenade bis 21:00 Uhr; Tretbootfahren optional.",
+      "dressCode": "Lockere Abendkleidung.",
+      "feeNote": "Spaziergang frei; Boot ₹50 (vor Launch verifizieren)."
+    },
+    "kmu-kasi-viswanathar": {
+      "name": "Kasi-Viswanathar-Tempel",
+      "summary": "Heiliger Shiva-Tempel direkt am Mahamaham-Becken mit dem Schrein der neun Flussgöttinnen.",
+      "darshanInfo": "Ruhige 6:00-Uhr-Morgenpooja direkt neben den Tempelstufen.",
+      "dressCode": "Schultern und Knie bedeckende Kleidung.",
+      "feeNote": "Eintritt frei."
+    },
+    "kmu-someswarar": {
+      "name": "Someswarar- & Adi-Kumbeswarar-Tempel",
+      "summary": "Chola-Steinsäulen und traditionelle Nadaswaram-Klänge im Herzen Kumbakonams.",
+      "darshanInfo": "Morgen-Darshan 6:00–12:30 Uhr; unter der Woche angenehm ruhig.",
+      "dressCode": "Dezente Tempelkleidung.",
+      "feeNote": "Eintritt frei."
+    },
+    "kmu-sarangapani": {
+      "name": "Sarangapani-Perumal-Tempel",
+      "summary": "Beeindruckender 11-stufiger Torturm und steinerner Streitwagen-Schrein mit Pferdereliefs.",
+      "darshanInfo": "Bis 12:30 Uhr geöffnet; filigrane Tanzreliefs bestaunen.",
+      "dressCode": "Bedeckte Kleidung.",
+      "feeNote": "Eintritt frei."
+    },
+    "kmu-nageswaran": {
+      "name": "Nageswaran-Sonnentempel",
+      "summary": "Frühes Chola-Juwel, präzise nach der Sonne im Monat Chithirai ausgerichtet.",
+      "darshanInfo": "Nachmittagsöffnung ab 16:30 Uhr; ruhiger Steinumgang.",
+      "dressCode": "Dezente Tempelkleidung.",
+      "feeNote": "Eintritt frei."
+    },
+    "kmu-chakrapani": {
+      "name": "Chakrapani-Tempel",
+      "summary": "Seltener achtarmiger Sudarshana-Chakra-Schrein nahe dem Kaveri-Ufer.",
+      "darshanInfo": "Abendliches Lampen-Darshan 18:00–19:30 Uhr.",
+      "dressCode": "Dezente Tempelkleidung.",
+      "feeNote": "Eintritt frei."
+    },
+    "kmu-flower-market": {
+      "name": "Morgen-Blumenmarkt Kumbakonam",
+      "summary": "Duftender Frühmarkt, auf dem überwiegend Frauen Jasmin-, Ringelblumen- und Lotusgirlanden binden.",
+      "darshanInfo": "Lebhaft von 5:30–8:30 Uhr vor der Tempelbelieferung.",
+      "dressCode": "Bequeme, abwaschbare Sandalen.",
+      "feeNote": "Eintritt frei."
+    },
+    "kmu-kaikari-market": {
+      "name": "Kaikari-Gemüsemarkt Kumbakonam",
+      "summary": "Bauernmarkt des Kaveri-Deltas mit Betelblättern, Kochbananen, Kürbissen und Curryblättern.",
+      "darshanInfo": "Authentisches Markttreiben am Vormittag.",
+      "dressCode": "Bequeme Alltagskleidung.",
+      "feeNote": "Zugang frei."
+    },
+    "kmu-kaveri-pond": {
+      "name": "Chakrapani Padithurai (Kaveri-Flussteich)",
+      "summary": "Schattige Steinstufen und ruhiges Wasserbecken an einer Windung des Kaveri-Flusses.",
+      "darshanInfo": "Am ruhigsten vor 9:00 Uhr; morgendliche Badegäste respektieren.",
+      "dressCode": "Zurückhaltende Freizeitkleidung.",
+      "feeNote": "Zugang frei."
+    },
+    "kmu-mahamaham-tank": {
+      "name": "Mahamaham-Becken & Messinggassen",
+      "summary": "2,4 Hektar großes heiliges Wasserbecken mit 16 Pavillons, umgeben von traditionellen Lampenschmieden.",
+      "darshanInfo": "Ganztägig zugänglich; Werkstätten in der Kammalar Street besuchen.",
+      "dressCode": "Sonnenschutz am späten Vormittag empfohlen.",
+      "feeNote": "Zugang frei."
+    },
+    "kmu-degree-coffee": {
+      "name": "Traditioneller Degree-Kaffee-Stand",
+      "summary": "Aufgeschäumter Südindien-Filterkaffee aus Messing-Dabara-Bechern mit warmen Snacks.",
+      "darshanInfo": "Frische Nachmittagsröstung ab 16:30 Uhr.",
+      "dressCode": "Freizeitkleidung.",
+      "feeNote": "Ca. ₹80 für Kaffee & Snacks (vor Launch verifizieren)."
+    },
+    "kmu-kaveri-arasalar": {
+      "name": "Arasalar- & Kaveri-Zusammenfluss",
+      "summary": "Ruhiges Flussufer unter Banyanbäumen, wo lokale Fischer runde Korakelboote nutzen.",
+      "darshanInfo": "Sanfter Morgennebel um 6:00 Uhr.",
+      "dressCode": "Bequeme Sandalen.",
+      "feeNote": "Zugang frei."
+    },
+    "kmu-thirubuvanam-groves": {
+      "name": "Kokoshaine & Lotuskanal Thirubuvanam",
+      "summary": "Smaragdgrüne Reisfelder, Lotuskanäle und traditionelle Seidenweber-Dörfer östlich der Stadt.",
+      "darshanInfo": "Ruhige Morgenfahrt entlang ländlicher Dämme.",
+      "dressCode": "Leichte Baumwolle.",
+      "feeNote": "Freier Naturweg."
+    },
+    "kmu-kallanai-day": {
+      "name": "Kallanai-Staudamm (Grand Anicut)",
+      "summary": "2.000 Jahre altes Chola-Wasserbauwerk, das bis heute Kaveri-Wasser ins Delta verteilt.",
+      "darshanInfo": "Ca. 1 Std. Fahrt ab Kumbakonam; ideal mit dem Ganztags-Rikschapaket.",
+      "dressCode": "Sonnengerechte Freizeitkleidung.",
+      "feeNote": "Parkeintritt frei (Parkgebühr vor Launch verifizieren)."
+    },
+    "kmu-kollidam-sunset": {
+      "name": "Kollidam-Sandbänke bei Sonnenuntergang",
+      "summary": "Weite Sandbänke nördlich der Stadt, an denen sich Reiher im Abendgold sammeln.",
+      "darshanInfo": "Beste Zeit 17:00–18:15 Uhr am Hauptufer.",
+      "dressCode": "Leichte Sandalen für Sand.",
+      "feeNote": "Zugang frei."
+    },
+    "kmu-darasuram": {
+      "name": "Airavatesvara-Tempel, Darasuram",
+      "summary": "UNESCO-Weltkulturerbe der Chola-Zeit mit klingenden Steinstufen und filigranen Reliefs.",
+      "darshanInfo": "Ab 16:00 Uhr lässt warmes Licht die Granitreliefs plastisch leuchten.",
+      "dressCode": "Schultern/Knie bedeckt; in der Steinhalle barfuß.",
+      "feeNote": "₹40 Inder / ₹600 internationale Gäste ASI-Ticket (vor Launch verifizieren)."
+    },
+    "kmu-swamimalai": {
+      "name": "Swamimalai-Tempel & Bronzegießer",
+      "summary": "Hügeltempel des Murugan kombiniert mit traditionellen Wachsausschmelz-Bronzewerkstätten.",
+      "darshanInfo": "60 bequeme Stufen; Handwerker bis 17:30 Uhr bei der Arbeit erleben.",
+      "dressCode": "Dezente Kleidung.",
+      "feeNote": "Tempeleintritt frei."
+    },
+    "kmu-mahamaham-eve": {
+      "name": "Abendspiegelung am Mahamaham-Becken",
+      "summary": "Ruhiger Abendspaziergang um die Stufen, wenn sich Tempeltürme im stillen Wasser spiegeln.",
+      "darshanInfo": "Abendbeleuchtung ab 18:30 Uhr.",
+      "dressCode": "Lockere Abendkleidung.",
+      "feeNote": "Zugang frei."
+    }
+  },
+  "vendorsTitle": "Lokale Guides & Partnerbetriebe",
+  "vendorsSubtitle": "Jede Buchung leitet faire Einnahmen direkt an geprüfte Guides, Elektro-Rikscha-Fahrer, Frauenkooperativen und Handwerker weiter.",
+  "vendorRoles": {
+    "guide": "Kultur-Guide",
+    "driver": "Rikscha-Partner",
+    "artisan": "Kunsthandwerk",
+    "eatery": "Lokale Küche"
+  },
+  "vendors": {
+    "loc-mdu-guide-1": {
+      "roleLabel": "Zertifizierte Tempel- & Kulturführerin",
+      "bio": "Führt Morgentouren auf Tamil, Englisch und Deutsch zu Sangam-Poesie und Nayak-Ikonographie.",
+      "specialty": "4:00 Uhr Meenakshi-Morgenführung"
+    },
+    "loc-mdu-artisan-1": {
+      "roleLabel": "Von Frauen geführte Sungudi-Weberei",
+      "bio": "28 Weberinnen fertigen traditionelle Naturfarben-Sungudi-Baumwolle ohne synthetische Abwässer.",
+      "specialty": "Live-Sungudi-Bindetechnik"
+    },
+    "loc-mdu-eatery-1": {
+      "roleLabel": "Familiengeführte Hirse- & Jigarthanda-Küche",
+      "bio": "Verwendet Palmzucker, Mandelharz und langsam eingekochte Milch für echtes Madurai-Jigarthanda.",
+      "specialty": "Traditionelles Jigarthanda"
+    },
+    "loc-mdu-driver-1": {
+      "roleLabel": "Emissionsfreie Elektro-Kulturrikscha",
+      "bio": "Kennt jede Einbahnstraße der Masi-Viertel und alle praktischen Schuh-Abgabestellen.",
+      "specialty": "Leise Morgen-Tempelrunde"
+    },
+    "loc-kmu-guide-1": {
+      "roleLabel": "Chola-Architektur- & Inschriften-Guide",
+      "bio": "Spezialisiert auf Darasuram-Reliefs, Nageswaran-Sonnenarchitektur und Kaveri-Kulturgeschichte.",
+      "specialty": "Darasuram-UNESCO-Rundgang"
+    },
+    "loc-kmu-artisan-1": {
+      "roleLabel": "Wachsausschmelz-Bronzewerkstatt",
+      "bio": "Sthapathi-Familie in dritter Generation formt Kaveri-Tonformen für traditionelle Öllampen.",
+      "specialty": "Swamimalai-Bronzeguss"
+    },
+    "loc-kmu-eatery-1": {
+      "roleLabel": "Von Frauen geleitete Kaffee-Kooperative",
+      "bio": "Frisch gerösteter Filterkaffee aus Messingfiltern serviert mit herzhaften Snacks.",
+      "specialty": "Echter Kumbakonam-Degree-Kaffee"
+    },
+    "loc-kmu-driver-1": {
+      "roleLabel": "Elektro-Rikscha & Delta-Lotse",
+      "bio": "Verbindet Stadttempel nahtlos mit den Kokosnusswegen von Thirubuvanam und Swamimalai.",
+      "specialty": "Kaveri-Delta-Tagesrunde"
+    }
+  }
+}

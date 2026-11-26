@@ -1,0 +1,48 @@
+{
+  "fabLabel": "SOS",
+  "fabAriaLabel": "Emergency and Wingo Support (SOS)",
+  "sheetTitle": "Emergency & Support",
+  "offlineBadge": "Available offline",
+  "disclaimer": "In a life-threatening emergency, call the emergency services immediately.",
+  "tapToCall": "Tap to call",
+  "contacts": {
+    "police": {
+      "label": "Police",
+      "hint": "Call for theft, personal safety threats, or urgent local police help."
+    },
+    "ambulance": {
+      "label": "Ambulance",
+      "hint": "Call for medical emergencies, injuries, heatstroke, or hospital transport."
+    },
+    "fire": {
+      "label": "Fire",
+      "hint": "Call immediately for fire, smoke, gas leaks, or rescue situations."
+    },
+    "wingoSupport": {
+      "label": "Wingo Tourism Customer Support",
+      "hint": "Call for auto driver issues, temple timing changes, or trip assistance."
+    }
+  },
+  "supportCardTitle": "Wingo Tourism Customer Support",
+  "supportHoursLabel": "Support hours",
+  "supportHoursValue": "6:00 AM – 10:00 PM IST (placeholder)",
+  "languagesLabel": "Languages supported",
+  "emailLabel": "Support email",
+  "chatButton": "Chat with support",
+  "reportIssueButton": "Report an issue with my booking",
+  "verifyLabel": "Verify before launch",
+  "chat": {
+    "title": "Wingo Support Chat (Demo)",
+    "backToSos": "Back to Emergency & Support",
+    "welcomeMsg": "Vanakkam! How can our local Madurai & Kumbakonam support desk help you today?",
+    "quickTopicsLabel": "Quick topics",
+    "topicDriver": "Driver is delayed",
+    "topicTemple": "Temple timing / entry question",
+    "topicFare": "Auto fare discrepancy",
+    "inputPlaceholder": "Type your message in your language...",
+    "send": "Send",
+    "mockReply": "Thanks for reaching out ({{topic}}). In production, a multilingual local coordinator replies within 2 minutes. Booking ref: {{bookingId}}."
+  },
+  "issueBannerTitle": "Reporting an issue with your active booking",
+  "issueBannerBody": "Review booking {{bookingId}} below or tap SOS anytime to call or chat with Wingo Support."
+}

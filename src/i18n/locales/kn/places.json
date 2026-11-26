@@ -1,0 +1,362 @@
+{
+  "_meta": {
+    "status": "needs native review",
+    "placeDataStatus": "towns-categories-translated; place-items fallback-en-pending-native-translation"
+  },
+  "townSelectTitle": "ಇಂದು ನೀವು ಯಾವ ಪಟ್ಟಣವನ್ನು ನೋಡಲು ಬಯಸುತ್ತೀರಿ?",
+  "townSelectSubtitle": "ಒಂದು ದಿನದ ಪಾರಂಪರಿಕ ಪ್ರವಾಸಕ್ಕಾಗಿ ತಮಿಳುನಾಡಿನ ಪಟ್ಟಣವನ್ನು ಆಯ್ಕೆಮಾಡಿ.",
+  "weatherLabel": "ಸ್ಥಳೀಯ ಹವಾಮಾನ",
+  "sunriseLabel": "ಸೂರ್ಯೋದಯ",
+  "sunsetLabel": "ಸೂರ್ಯಾಸ್ತ",
+  "weatherConditions": {
+    "pleasantDawn": "ಆಹ್ಲಾದಕರ ಮುಂಜಾನೆ ಗಾಳಿ",
+    "warmSunny": "ಬಿಸಿಲು ಮತ್ತು ಸ್ಪಷ್ಟ",
+    "breezyEvening": "ತಂಪಾದ ಸಂಜೆ ಗಾಳಿ",
+    "partlyCloudy": "ಮಧ್ಯಮ ಮೋಡ"
+  },
+  "towns": {
+    "madurai": {
+      "name": "ಮಧುರೈ",
+      "tagline": "ಮುಂಜಾನೆ ಗೋಪುರಗಳು ಮತ್ತು ಜೀವಂತ ಬಜಾರ್‌ಗಳ ನಗರ",
+      "description": "ಬೆಳಿಗ್ಗೆ 4:00 ಮೀನಾಕ್ಷಿ ಅಮ್ಮನ್ ದರ್ಶನದಿಂದ ಹೂವಿನ ಬೀದಿಗಳು, ನಾಯಕ್ಕರ್ ಮಹಲ್ ಮತ್ತು ವೈಗೈ ಸಂಜೆಯವರೆಗೆ.",
+      "highlights": "4:00 ದರ್ಶನ · ನಾಯಕ್ಕರ್ ಮಹಲ್ · ತೆಪ್ಪಕುಳಂ"
+    },
+    "kumbakonam": {
+      "name": "ಕುಂಭಕೋಣಂ",
+      "tagline": "ಕಾವೇರಿ ಮುಖಜ ಭೂಮಿಯ ಚೋಳ ದೇಗುಲ ನಗರ",
+      "description": "ಪ್ರಾಚೀನ ಶಿವ ಮತ್ತು ಪೆರುಮಾಳ್ ದೇಗುಲಗಳು, ಹಿತ್ತಾಳೆ ಬೀದಿಗಳು, ಡಿಗ್ರಿ ಕಾಫಿ, ಮಹಾಮಹಂ ಕೊಳ ಮತ್ತು ಕಾವೇರಿ ಘಟ್ಟಗಳು.",
+      "highlights": "ಮಹಾಮಹಂ ಕೊಳ · ಚೋಳ ಕಂಚು · ಕಾವೇರಿ ಘಟ್ಟ"
+    }
+  },
+  "categoriesTitle": "ನಿಮ್ಮ ಅನುಭವವನ್ನು ಆಯ್ಕೆಮಾಡಿ",
+  "categoriesSubtitle": "ಪ್ರತಿ ಮಾರ್ಗವು ಸ್ಥಳೀಯ ಸಮಯ, ವಿಶ್ರಾಂತಿ ಮತ್ತು ಪ್ರಾಮಾಣಿಕ ಸ್ಥಳೀಯ ಅನುಭವಗಳನ್ನು ಒಳಗೊಂಡಿದೆ.",
+  "categories": {
+    "temples": {
+      "title": "ದೇವಾಲಯಗಳು",
+      "subtitle": "ಮುಂಜಾನೆ ದರ್ಶನ, ವಾಸ್ತುಶಿಲ್ಪ ಮತ್ತು ವಿಶೇಷ ಪೂಜೆಗಳು"
+    },
+    "localPlaces": {
+      "title": "ಸ್ಥಳೀಯ ಸ್ಥಳಗಳು",
+      "subtitle": "ಮಾರುಕಟ್ಟೆಗಳು, ಅರಮನೆಗಳು, ಕರಕುಶಲ ಬೀದಿ ಮತ್ತು ಆಹಾರ"
+    },
+    "riversNature": {
+      "title": "ನದಿಗಳು ಮತ್ತು ಪ್ರಕೃತಿ",
+      "subtitle": "ಕಾವೇರಿ ಮತ್ತು ವೈಗೈ ತೀರ, ಕಮಲದ ಕೊಳ, ಬೆಟ್ಟ ಮತ್ತು ಜಲಪಾತ"
+    },
+    "chillVibes": {
+      "title": "ಶಾಂತ ವಿಹಾರ",
+      "subtitle": "ಸಂಜೆಯ ಕೊಳಗಳು, ಬೆಟ್ಟದ ಗಾಳಿ ಮತ್ತು ನಿಧಾನ ಪಾರಂಪರಿಕ ನಡಿಗೆ"
+    }
+  },
+  "vendorsTitle": "ಸ್ಥಳೀಯ ಮಾರ್ಗದರ್ಶಕರು ಮತ್ತು ಪಾಲುದಾರರು",
+  "vendorsSubtitle": "ಪ್ರತಿ ಬುಕಿಂಗ್ ಪರಿಶೀಲಿಸಿದ ಮಾರ್ಗದರ್ಶಕರು, ಇವಿ ಆಟೋ ಚಾಲಕರು ಮತ್ತು ಮಹಿಳಾ ಸಂಘಗಳಿಗೆ ನೇರ ಆದಾಯ ತರುತ್ತದೆ.",
+  "vendorRoles": {
+    "guide": "ಪಾರಂಪರಿಕ ಮಾರ್ಗದರ್ಶಕ",
+    "driver": "ಆಟೋ ಪಾಲುದಾರ",
+    "artisan": "ಸ್ಥಳೀಯ ಕಲಾವಿದ",
+    "eatery": "ಸ್ಥಳೀಯ ಅಡುಗೆಮನೆ"
+  },
+  "visitorTips": {
+    "title": "Visitor Etiquette & Travel Tips",
+    "subtitle": "Helpful cultural guidance for international guests in Tamil Nadu.",
+    "dressCodeTitle": "Temple Dress Code",
+    "dressCodeBody": "Cover shoulders and knees (long trousers, skirts, sarees, or kurtas). Avoid shorts or sleeveless tops inside sanctums.",
+    "shoesTitle": "Footwear Removal",
+    "shoesBody": "Leave shoes at designated temple stands (small ₹5–₹10 token) before entering stone courtyards; cotton socks help on warm granite.",
+    "photoTitle": "Photography Rules",
+    "photoBody": "Cameras and phones are permitted in outer courtyards with a modest fee at select sites, but strictly prohibited inside inner sanctums.",
+    "bargainingTitle": "Fair Bargaining Etiquette",
+    "bargainingBody": "In local bazaars, a friendly smile and 10–15% negotiation is normal; avoid aggressive haggling with small women-run flower or craft stalls.",
+    "safetyTitle": "Comfort & Safety",
+    "safetyBody": "Carry bottled water, sun protection after 10 AM, and confirm metered/package auto fares inside Wingo before boarding."
+  },
+  "items": {
+    "mdu-meenakshi": {
+      "name": "Meenakshi Amman Temple",
+      "summary": "2,500-year-old Dravidian marvel with 14 painted gopurams and the Hall of a Thousand Pillars.",
+      "darshanInfo": "4:00 AM Viswaroopa Darshan; phones/bags deposited at East/South locker counters.",
+      "dressCode": "Modest attire covering shoulders and knees; no shorts or leather belts inside.",
+      "feeNote": "Free general darshan; ₹100 special darshan & museum extra (verify before launch)."
+    },
+    "mdu-thiruparankundram-temple": {
+      "name": "Thiruparankundram Murugan Temple",
+      "summary": "First of the six Arupadaiveedu rock-cut shrines of Lord Murugan carved into granite.",
+      "darshanInfo": "Morning Abhishekam around 6:30 AM; calm rock-cut sanctum atmosphere.",
+      "dressCode": "Traditional or modest attire; footwear left at foothills counter.",
+      "feeNote": "Free entry; optional special archana ticket at counter."
+    },
+    "mdu-koodal-azhagar": {
+      "name": "Koodal Azhagar Perumal Temple",
+      "summary": "Rare three-tiered Vaishnava shrine depicting seated, standing, and reclining Vishnu.",
+      "darshanInfo": "Peaceful morning darshan; climb carefully along narrow stone steps.",
+      "dressCode": "Modest dress; shoulders and knees covered.",
+      "feeNote": "Free entry."
+    },
+    "mdu-azhagar-kovil": {
+      "name": "Azhagar Kovil (Kallazhagar Temple)",
+      "summary": "Foothill fortress temple nestled in Alagar Hills, famed for fragrant chandanam prasadam.",
+      "darshanInfo": "Check morning darshan queue; Noopura Ganga spring nearby.",
+      "dressCode": "Modest attire; watch out for friendly hill monkeys near snacks.",
+      "feeNote": "Free general entry; hill shuttle extra (verify before launch)."
+    },
+    "mdu-pazhamudhircholai": {
+      "name": "Pazhamudhircholai Murugan Temple",
+      "summary": "Forest-clad sixth abode of Murugan shaded by ancient jamun and neem trees.",
+      "darshanInfo": "Continuous daytime darshan; short forest drive up from Azhagar Kovil.",
+      "dressCode": "Modest casuals; comfortable walking footwear until temple steps.",
+      "feeNote": "Free entry."
+    },
+    "mdu-thiruparankundram-hill": {
+      "name": "Thiruparankundram Hill Mountain View",
+      "summary": "Crisp 5:00 AM granite ridge walk overlooking Madurai's lakes and distant temple towers.",
+      "darshanInfo": "Open sunrise access; carry a flashlight before 5:45 AM.",
+      "dressCode": "Breathable walking wear and grip shoes.",
+      "feeNote": "Free public trail."
+    },
+    "mdu-busy-streets": {
+      "name": "Historic Masi Streets & Heritage Walk",
+      "summary": "Madurai's concentric temple streets alive with jasmine garlands, brass bells, and cotton mills.",
+      "darshanInfo": "Best on foot between 7:00–8:30 AM before midday traffic builds.",
+      "dressCode": "Comfortable walking clothes and sun hat.",
+      "feeNote": "Free street walk."
+    },
+    "mdu-nayakkar-mahal": {
+      "name": "Thirumalai Nayakkar Mahal",
+      "summary": "17th-century Indo-Saracenic palace with soaring 25-meter stucco pillars and grand courtyard.",
+      "darshanInfo": "Tickets at main gate; morning light illuminates the colonnade beautifully.",
+      "dressCode": "Casual comfortable wear.",
+      "feeNote": "₹50 Indian visitors; higher international rate applies (verify before launch)."
+    },
+    "mdu-kaikari-sandhai": {
+      "name": "Kaikari Sandhai (Vegetable Market)",
+      "summary": "Bustling local farmers' market stacked with Madurai malli jasmine, bananas, and farm greens.",
+      "darshanInfo": "Peak freshness 6:00–11:00 AM; bring small cash notes and cloth bag.",
+      "dressCode": "Casual wash-friendly shoes.",
+      "feeNote": "Free market entry."
+    },
+    "mdu-pandi-bazaar": {
+      "name": "Pandi Bazaar & Puthu Mandapam Crafts",
+      "summary": "Artisan lanes for Sungudi tie-dye cotton sarees, bronze lamps, and palm-leaf baskets.",
+      "darshanInfo": "Most shops open by 10:00 AM; direct support for local weavers.",
+      "dressCode": "Casual attire.",
+      "feeNote": "Free browsing; craft purchases optional."
+    },
+    "mdu-teppakulam-food": {
+      "name": "Teppakulam Street Food & Jigarthanda",
+      "summary": "Iconic Madurai evening stalls serving chilled Jigarthanda, kari dosai, and paruthi paal.",
+      "darshanInfo": "Stalls peak after 6:30 PM along the tank promenade.",
+      "dressCode": "Casual evening wear.",
+      "feeNote": "Avg. ₹150 per person tasting (verify before launch)."
+    },
+    "mdu-vaigai-walk": {
+      "name": "Vaigai Riverfront & Kuruvithurai Trail",
+      "summary": "Quiet dawn river path and historic check-dam along Madurai's legendary Sangam river.",
+      "darshanInfo": "Best between 6:00–7:30 AM for golden mist and birdcalls.",
+      "dressCode": "Light cotton wear and walking sandals.",
+      "feeNote": "Free access."
+    },
+    "mdu-samanar-hills": {
+      "name": "Samanar Malai (Jain Caves & Lotus Pond)",
+      "summary": "2,000-year-old Tamil-Brahmi inscriptions, rock-cut Jain reliefs, and serene lotus pond.",
+      "darshanInfo": "Gentle 20-minute stone climb; visit before 9:30 AM sun.",
+      "dressCode": "Sneakers or strap sandals; carry drinking water.",
+      "feeNote": "Free heritage site."
+    },
+    "mdu-kutladampatti-falls": {
+      "name": "Kutladampatti Waterfalls & Eco-Forest",
+      "summary": "Seasonal cascade tucked in Sirumalai foothills, surrounded by tamarind and bamboo groves.",
+      "darshanInfo": "Flow depends on monsoon season; morning ranger check-in required.",
+      "dressCode": "Quick-dry attire and grip footwear.",
+      "feeNote": "Approx. ₹30 forest checkpost fee (verify before launch)."
+    },
+    "mdu-kaveri-vaigai-link": {
+      "name": "Madakulam & Nagamalai Birding Pond",
+      "summary": "Tranquil irrigation tank inspired by Kaveri-Vaigai water wisdom, popular with painted storks.",
+      "darshanInfo": "Golden hour 4:30–6:00 PM along the eastern bund.",
+      "dressCode": "Earth-toned casual wear.",
+      "feeNote": "Free access."
+    },
+    "mdu-gandhi-lawn": {
+      "name": "Gandhi Memorial Museum Courtyard",
+      "summary": "Shaded heritage lawns and historic palace complex (note: galleries closed on Fridays).",
+      "darshanInfo": "Open 10:00 AM–5:45 PM except Fridays.",
+      "dressCode": "Respectful casual wear.",
+      "feeNote": "Free courtyard entry (verify before launch)."
+    },
+    "mdu-thiruparankundram-eve": {
+      "name": "Thiruparankundram Evening Ridge",
+      "summary": "Cool hill breeze as temple lamps flicker on below across Madurai's southern skyline.",
+      "darshanInfo": "Sunset around 6:10 PM; ideal unhurried pause.",
+      "dressCode": "Light cottons.",
+      "feeNote": "Free access."
+    },
+    "mdu-teppakulam-eve": {
+      "name": "Vandiyur Teppakulam Evening Pond",
+      "summary": "Massive 17th-century stepped tank with central Maiya Mandapam glowing under evening lights.",
+      "darshanInfo": "Breezy promenade walks till 9:00 PM; optional paddle boating.",
+      "dressCode": "Casual evening wear.",
+      "feeNote": "Free promenade; ₹50 boating (verify before launch)."
+    },
+    "kmu-kasi-viswanathar": {
+      "name": "Kasi Viswanathar Temple",
+      "summary": "Sacred Shiva shrine beside Mahamaham Tank housing the nine River Goddesses pavilion.",
+      "darshanInfo": "Peaceful 6:00 AM dawn pooja; sacred tank steps right outside.",
+      "dressCode": "Traditional or modest attire covering shoulders and knees.",
+      "feeNote": "Free entry."
+    },
+    "kmu-someswarar": {
+      "name": "Someswarar & Adi Kumbeswarar Circuit",
+      "summary": "Twin architectural gems of Kumbakonam known for Chola stone pillars and nadaswaram melodies.",
+      "darshanInfo": "Morning darshan 6:00 AM–12:30 PM; calm weekday mornings.",
+      "dressCode": "Modest dress; footwear stand at main gateway.",
+      "feeNote": "Free entry."
+    },
+    "kmu-sarangapani": {
+      "name": "Sarangapani Perumal Temple",
+      "summary": "Towering 11-tier Raja Gopuram and chariot-shaped stone sanctum pulled by carved horses.",
+      "darshanInfo": "Morning darshan till 12:30 PM; admire intricate dance karanas.",
+      "dressCode": "Modest attire.",
+      "feeNote": "Free entry."
+    },
+    "kmu-nageswaran": {
+      "name": "Nageswaran Solar Temple",
+      "summary": "Early Chola masterpiece aligned so sunlight touches the Shiva Lingam during Chithirai.",
+      "darshanInfo": "Evening opening 4:30 PM; quiet stone prakaram.",
+      "dressCode": "Modest temple dress.",
+      "feeNote": "Free entry."
+    },
+    "kmu-chakrapani": {
+      "name": "Chakrapani Temple",
+      "summary": "Unique eight-armed Sudarshana Chakra shrine close to the Kaveri bathing ghat.",
+      "darshanInfo": "Evening lamp darshan 6:00–7:30 PM.",
+      "dressCode": "Modest temple dress.",
+      "feeNote": "Free entry."
+    },
+    "kmu-flower-market": {
+      "name": "Kumbakonam Morning Flower Market",
+      "summary": "Fragrant dawn market run largely by local women weaving jasmine, marigold, and lotus garlands.",
+      "darshanInfo": "Vibrant from 5:30–8:30 AM before garlands head to 12 town temples.",
+      "dressCode": "Casual washable sandals.",
+      "feeNote": "Free market visit."
+    },
+    "kmu-kaikari-market": {
+      "name": "Kumbakonam Kaikari Market",
+      "summary": "Cauvery delta farm market brimming with ash gourd, betel leaves, plantains, and curry leaves.",
+      "darshanInfo": "Lively morning trade; great insight into delta agriculture.",
+      "dressCode": "Comfortable walking wear.",
+      "feeNote": "Free access."
+    },
+    "kmu-kaveri-pond": {
+      "name": "Chakrapani Padithurai (Kaveri River Pond)",
+      "summary": "Tree-shaded river steps and tranquil sacred pond along a bend of the Cauvery.",
+      "darshanInfo": "Calmest before 9:00 AM; respect local morning bathers.",
+      "dressCode": "Modest casual attire.",
+      "feeNote": "Free access."
+    },
+    "kmu-mahamaham-tank": {
+      "name": "Mahamaham Tank & Brass Craft Lanes",
+      "summary": "Iconic 6-acre sacred tank ringed by 16 stone mandapams, flanked by traditional lamp makers.",
+      "darshanInfo": "Open all day; visit brass workshops in nearby Kammalar Street.",
+      "dressCode": "Casual attire; sun cap recommended mid-morning.",
+      "feeNote": "Free access."
+    },
+    "kmu-degree-coffee": {
+      "name": "Heritage Degree Coffee & Snack Stall",
+      "summary": "Frothed farm-milk filter coffee poured in gleaming brass dabara-tumbler sets.",
+      "darshanInfo": "Fresh evening batch around 4:30 PM alongside crispy bajji.",
+      "dressCode": "Casual wear.",
+      "feeNote": "Avg. ₹80 coffee & snacks (verify before launch)."
+    },
+    "kmu-kaveri-arasalar": {
+      "name": "Arasalar & Kaveri Confluence Ghat",
+      "summary": "Peaceful delta riverbank shaded by banyan roots where local fishermen launch coracles.",
+      "darshanInfo": "Cool morning mist around 6:00 AM.",
+      "dressCode": "Comfortable walking sandals.",
+      "feeNote": "Free public ghat."
+    },
+    "kmu-thirubuvanam-groves": {
+      "name": "Thirubuvanam Coconut Groves & Lotus Canal",
+      "summary": "Emerald paddy fields, irrigation canals, and handloom silk cottages east of Kumbakonam.",
+      "darshanInfo": "Morning bicycle or auto ride along quiet village bunds.",
+      "dressCode": "Light cottons and sun protection.",
+      "feeNote": "Free rural trail."
+    },
+    "kmu-kallanai-day": {
+      "name": "Kallanai (Grand Anicut) Kaveri Regulator",
+      "summary": "2,000-year-old Chola stone dam still diverting Kaveri waters across the fertile delta.",
+      "darshanInfo": "Approx. 1 hr scenic drive from Kumbakonam; best with full-day auto/cab.",
+      "dressCode": "Casual sun-safe wear.",
+      "feeNote": "Free park entry (verify local parking fee before launch)."
+    },
+    "kmu-kollidam-sunset": {
+      "name": "Kollidam River Sandbanks",
+      "summary": "Wide sandy riverbanks north of town where egrets gather in amber sunset light.",
+      "darshanInfo": "Stay near main bank; enjoy breeze from 5:00–6:15 PM.",
+      "dressCode": "Slip-off sandals for sand.",
+      "feeNote": "Free access."
+    },
+    "kmu-darasuram": {
+      "name": "Airavatesvara Temple, Darasuram",
+      "summary": "UNESCO World Heritage Chola temple famed for musical stone steps and miniature friezes.",
+      "darshanInfo": "Golden afternoon light at 4:00 PM brings granite carvings alive.",
+      "dressCode": "Modest attire; barefoot inside stone mandapam.",
+      "feeNote": "₹40 Indian / ₹600 foreign ASI monument fee (verify before launch)."
+    },
+    "kmu-swamimalai": {
+      "name": "Swamimalai Temple & Bronze Artisans",
+      "summary": "Hilltop Murugan shrine paired with lost-wax Panchaloha bronze casting workshops below.",
+      "darshanInfo": "60 gentle stone steps; watch artisans shape clay moulds until 5:30 PM.",
+      "dressCode": "Modest attire.",
+      "feeNote": "Free temple entry."
+    },
+    "kmu-mahamaham-eve": {
+      "name": "Mahamaham Tank Evening Reflections",
+      "summary": "Quiet twilight stroll around the stone steps as gopurams reflect in calm temple waters.",
+      "darshanInfo": "Evening lamps lit around 6:30 PM; peaceful local atmosphere.",
+      "dressCode": "Casual evening wear.",
+      "feeNote": "Free access."
+    }
+  },
+  "vendors": {
+    "loc-mdu-guide-1": {
+      "roleLabel": "Certified Temple & History Storyteller",
+      "bio": "Leads dawn walks in Tamil, English, and German covering Sangam poetry, Chola-Nayak iconography, and hidden mandapams.",
+      "specialty": "4:00 AM Meenakshi Dawn Walk"
+    },
+    "loc-mdu-artisan-1": {
+      "roleLabel": "Women-Run Handloom Tie-Dye Guild",
+      "bio": "28 women artisans preserving natural-dye Madurai Sungudi cotton dots without synthetic runoff.",
+      "specialty": "Live Sungudi Tying Demo"
+    },
+    "loc-mdu-eatery-1": {
+      "roleLabel": "Family Millet & Jigarthanda Kitchen",
+      "bio": "Uses native palm jaggery, almond gum, and slow-simmered milk for authentic Madurai cooling drinks.",
+      "specialty": "Traditional Jigarthanda"
+    },
+    "loc-mdu-driver-1": {
+      "roleLabel": "Zero-Emission EV Heritage Auto",
+      "bio": "Knows every one-way Masi street rule and best shoe-counter drop-off points around Madurai temples.",
+      "specialty": "Silent Dawn Temple Loop"
+    },
+    "loc-kmu-guide-1": {
+      "roleLabel": "Chola Architecture & Epigraphy Guide",
+      "bio": "Specializes in Darasuram friezes, Nageswaran solar alignments, and Kaveri cultural folklore.",
+      "specialty": "Darasuram UNESCO Trail"
+    },
+    "loc-kmu-artisan-1": {
+      "roleLabel": "Lost-Wax Bronze Casting Workshop",
+      "bio": "Third-generation Sthapathi family shaping Kaveri clay moulds into heritage brass & bronze lamps.",
+      "specialty": "Swamimalai Lost-Wax Craft"
+    },
+    "loc-kmu-eatery-1": {
+      "roleLabel": "Women-Run Filter Coffee Cooperative",
+      "bio": "Freshly roasted Chicory-Peaberry blend brewed in brass filters and served with banana-leaf snacks.",
+      "specialty": "Authentic Degree Coffee"
+    },
+    "loc-kmu-driver-1": {
+      "roleLabel": "EV Auto & Rural Delta Navigator",
+      "bio": "Connects town temples seamlessly with Thirubuvanam coconut lanes and Swamimalai workshops.",
+      "specialty": "Cauvery Delta Full-Day Loop"
+    }
+  }
+}

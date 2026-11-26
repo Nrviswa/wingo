@@ -1,0 +1,46 @@
+{
+  "title": "Bus & Rail Transit Guide",
+  "subtitle": "Nearest bus stands and railway stations matched to your first and final stops.",
+  "nearestArrivalTitle": "Nearest Arrival Hub (First Stop)",
+  "nearestDepartureTitle": "Nearest Departure Hub (Last Stop)",
+  "firstStopLabel": "First stop",
+  "lastStopLabel": "Last stop",
+  "distanceFromStop": "{{km}} km · ~{{mins}} min",
+  "hubTypes": {
+    "busStand": "Bus Stand",
+    "railwayStation": "Railway Station"
+  },
+  "firstServiceLabel": "First bus / train",
+  "lastServiceLabel": "Last bus / train",
+  "approxBusFare": "Town bus fare",
+  "approxAutoFare": "Auto from hub",
+  "allHubsTitle": "All Major Town Transit Hubs",
+  "directionsTitle": "Step-by-step arrival guidance",
+  "hubs": {
+    "mdu-junction": {
+      "name": "Madurai Junction Railway Station",
+      "directions": "Leave via the East Gate towards West Veli Street for a 5-minute auto ride or 12-minute walk to Meenakshi Amman West Tower.",
+      "platformHint": "Prepaid auto kiosk sits just outside Platform 1 East Exit."
+    },
+    "mdu-periyar-bus": {
+      "name": "Periyar Bus Stand",
+      "directions": "Central town hub next to Madurai Junction. Frequent town buses loop past West Tower, Thirumalai Nayakkar Mahal, and Teppakulam.",
+      "platformHint": "Bays 3–6 serve Teppakulam and Thiruparankundram routes."
+    },
+    "mdu-mattuthavani-bus": {
+      "name": "Mattuthavani (MGR) Integrated Bus Terminus",
+      "directions": "Main intercity coach terminus for Chennai, Trichy, and Rameswaram. Take town bus 77A or a 20-minute auto via Anna Nagar.",
+      "platformHint": "Town buses depart from the outer front bay every 8–10 minutes."
+    },
+    "kmu-bus-stand": {
+      "name": "Kumbakonam New Bus Stand",
+      "directions": "Just 1.2 km east of Mahamaham Tank. Walk or hop on a 5-minute auto directly to Kasi Viswanathar and Sarangapani streets.",
+      "platformHint": "Buses towards Swamimalai, Darasuram, and Thanjavur leave from Bays 1–4."
+    },
+    "kmu-railway-station": {
+      "name": "Kumbakonam Railway Station",
+      "directions": "Direct rail connection from Chennai Egmore, Trichy, and Thanjavur. Station Road meets Mahamaham Tank in 1.1 km.",
+      "platformHint": "Local auto rank is directly outside the main portico."
+    }
+  }
+}

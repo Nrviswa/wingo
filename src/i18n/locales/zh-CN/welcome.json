@@ -1,0 +1,23 @@
+{
+  "_meta": { "status": "needs native review" },
+  "greetings": {
+    "enIN": "Welcome",
+    "ta": "வணக்கம்",
+    "te": "స్వాగతం",
+    "kn": "ಸ್ವಾಗತ",
+    "ml": "സ്వాഗതം",
+    "hi": "स्वागत है",
+    "de": "Willkommen",
+    "zhCN": "欢迎",
+    "enGB": "Welcome, Traveller"
+  },
+  "heroSubtitle": "泰米尔纳德邦精选一日文化路线——全程使用您的母语规划，由本地突突车司机、向导和织工直接提供服务。",
+  "missionTitle": "赋能本地文旅",
+  "missionBody": "100% 透明的突突车车费、真实的清晨神庙礼拜时间，收入直接归属本地司机、向导与女性合作社。",
+  "selectLanguageTitle": "选择您的首选语言",
+  "selectLanguageHint": "所有界面、景点介绍、费用明细与公交铁路指南均会同步切换。",
+  "pauseGreeting": "暂停欢迎动画",
+  "playGreeting": "播放欢迎动画",
+  "startPlanningCta": "开始规划一日行程",
+  "deviceDetectedHint": "已根据您的设备语言识别"
+}

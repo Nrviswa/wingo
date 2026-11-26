@@ -1,0 +1,22 @@
+{
+  "greetings": {
+    "enIN": "Welcome",
+    "ta": "வணக்கம்",
+    "te": "స్వాగతం",
+    "kn": "ಸ್ವಾಗತ",
+    "ml": "സ്వాഗതം",
+    "hi": "स्वागत है",
+    "de": "Willkommen",
+    "zhCN": "欢迎",
+    "enGB": "Welcome, Traveller"
+  },
+  "heroSubtitle": "One-day curated heritage trails across Tamil Nadu — planned in your language, powered by local auto drivers, guides, and weavers.",
+  "missionTitle": "Local Tourism, Empowered",
+  "missionBody": "100% transparent auto fares, authentic dawn temple timings, and direct earnings for local drivers, guides, and women-run collectives.",
+  "selectLanguageTitle": "Select your preferred language",
+  "selectLanguageHint": "Every screen, place note, fare breakdown, and transit route adapts to your choice.",
+  "pauseGreeting": "Pause greeting animation",
+  "playGreeting": "Play greeting animation",
+  "startPlanningCta": "Start My One-Day Plan",
+  "deviceDetectedHint": "Detected from your device"
+}

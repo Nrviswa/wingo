@@ -1,0 +1,359 @@
+{
+  "_meta": { "status": "needs native review" },
+  "townSelectTitle": "今天想探索哪座城镇？",
+  "townSelectSubtitle": "选择一座泰米尔纳德邦历史名城，开启节奏舒缓的精选一日游。",
+  "weatherLabel": "当地天气",
+  "sunriseLabel": "日出",
+  "sunsetLabel": "日落",
+  "weatherConditions": {
+    "pleasantDawn": "清晨微风宜人",
+    "warmSunny": "晴朗温暖",
+    "breezyEvening": "傍晚凉风习习",
+    "partlyCloudy": "温和少云"
+  },
+  "towns": {
+    "madurai": {
+      "name": "马杜赖 (Madurai)",
+      "tagline": "黎明塔门与鲜活集市交织的莲花古城",
+      "description": "从凌晨 4:00 米纳克希安曼神庙的晨钟，到茉莉花巷、纳亚克宫殿柱廊与傍晚怀盖河畔微风。",
+      "highlights": "4:00 晨曦瞻仰 · 纳亚克宫殿 · 圣水池"
+    },
+    "kumbakonam": {
+      "name": "贡伯戈讷姆 (Kumbakonam)",
+      "tagline": "高韦里河三角洲上的朱罗王朝神庙之城",
+      "description": "古老的湿婆与毗湿奴神庙、黄铜手工艺街、浓郁南印滤泡咖啡、马哈马哈姆圣池倒影与静谧河阶。",
+      "highlights": "马哈马哈姆圣池 · 朱罗青铜 · 高韦里河阶"
+    }
+  },
+  "categoriesTitle": "选择您的体验主题",
+  "categoriesSubtitle": "每条路线都兼顾当地作息、休息间隙与真实的社区互动。",
+  "categories": {
+    "temples": {
+      "title": "古庙朝圣",
+      "subtitle": "清晨初瞻、建筑瑰宝与特色礼拜时段"
+    },
+    "localPlaces": {
+      "title": "地道风物",
+      "subtitle": "早市、王宫、手工艺街与经典街头小吃"
+    },
+    "riversNature": {
+      "title": "河畔与自然",
+      "subtitle": "高韦里河与怀盖河阶、莲花池、山丘与瀑布"
+    },
+    "chillVibes": {
+      "title": "悠闲慢时光",
+      "subtitle": "日落圣池、山顶晚风与从容古迹漫步"
+    }
+  },
+  "visitorTips": {
+    "title": "国际游客礼仪与出行贴士",
+    "subtitle": "泰米尔纳德邦神庙与本地集市的实用文化指南。",
+    "dressCodeTitle": "神庙着装规范",
+    "dressCodeBody": "请遮盖肩膀与膝盖（建议长裤、长裙或传统服饰），避免穿短裤或无袖上衣进入内殿。",
+    "shoesTitle": "脱鞋寄存",
+    "shoesBody": "进入神庙石砌院落前需在门口存鞋（约 ₹5–₹10 小费）；阳光暴晒时穿棉袜可防烫脚。",
+    "photoTitle": "摄影规定",
+    "photoBody": "外院通常可购票拍照，但核心内殿严禁摄影与使用手机。",
+    "bargainingTitle": "友善议价礼仪",
+    "bargainingBody": "在集市可微笑议价约 10–15%；面对女性经营的小型花摊或手作摊位请保持公平。",
+    "safetyTitle": "舒适与安全",
+    "safetyBody": "请随身携带瓶装水，上午 10 点后注意防晒，上车前在 Wingo 内核对透明车费。"
+  },
+  "items": {
+    "mdu-meenakshi": {
+      "name": "米纳克希安曼神庙",
+      "summary": "拥有 2,500 年历史的达罗毗荼建筑奇迹，以 14 座彩绘塔门与千柱厅闻名。",
+      "darshanInfo": "凌晨 4:00 晨瞻礼拜；手机与背包需寄存在东门或南门存包处。",
+      "dressCode": "着装需遮盖肩膀与膝盖；不可穿短裤或佩戴皮革腰带。",
+      "feeNote": "普通瞻仰免费；特殊通道与博物馆约 ₹100（上线前请核实）。"
+    },
+    "mdu-thiruparankundram-temple": {
+      "name": "蒂鲁帕朗昆德拉姆穆鲁干石窟庙",
+      "summary": "穆鲁干六大圣地之首，整座内殿凿刻于花岗岩山体之中。",
+      "darshanInfo": "清晨 6:30 净身礼拜，石窟殿内氛围宁静。",
+      "dressCode": "端庄着装；山脚处寄存鞋履。",
+      "feeNote": "免费入场。"
+    },
+    "mdu-koodal-azhagar": {
+      "name": "库达尔阿扎加尔毗湿奴神庙",
+      "summary": "罕见的三层神庙建筑，分别供奉坐姿、站姿与卧姿毗湿奴神像。",
+      "darshanInfo": "上午人少清幽；上下狭窄石阶请注意脚下。",
+      "dressCode": "遮肩盖膝的端庄着装。",
+      "feeNote": "免费入场。"
+    },
+    "mdu-azhagar-kovil": {
+      "name": "阿扎加尔山麓古庙",
+      "summary": "坐落于阿扎加尔山脚森林旁的古堡式神庙，以清香檀香圣灰闻名。",
+      "darshanInfo": "上午排队时间适中；附近有山泉圣水。",
+      "dressCode": "端庄着装；随身零食请留意山间猕猴。",
+      "feeNote": "免费入场；上山接驳车另计（上线前请核实）。"
+    },
+    "mdu-pazhamudhircholai": {
+      "name": "帕扎穆迪尔乔莱林间神庙",
+      "summary": "隐匿在古老蒲桃与印楝树林中的穆鲁干第六圣地。",
+      "darshanInfo": "日间连续开放；可从山脚乘短途车抵达。",
+      "dressCode": "舒适得体的休闲服。",
+      "feeNote": "免费入场。"
+    },
+    "mdu-thiruparankundram-hill": {
+      "name": "蒂鲁帕朗昆德拉姆晨曦山景",
+      "summary": "清晨 5:00 登花岗岩山脊，俯瞰马杜赖湖泊群与远方神庙塔门。",
+      "darshanInfo": "日出免费开放；5:45 前建议自备手电。",
+      "dressCode": "透气运动服与防滑鞋。",
+      "feeNote": "免费公共步道。"
+    },
+    "mdu-busy-streets": {
+      "name": "马西古城街巷漫步",
+      "summary": "环绕神庙的同心圆老街，弥漫着茉莉花环、铜铃声与棉纺市井气息。",
+      "darshanInfo": "7:00–8:30 车流较少，最适合步行感受。",
+      "dressCode": "轻便棉质服装与遮阳帽。",
+      "feeNote": "免费街区漫步。"
+    },
+    "mdu-nayakkar-mahal": {
+      "name": "蒂鲁马莱纳亚克宫殿",
+      "summary": "17 世纪印伊合璧王宫，拥有 25 米高宏伟灰泥巨柱与壮观回廊庭院。",
+      "darshanInfo": "大门口购票；上午光线照耀柱廊尤为出片。",
+      "dressCode": "舒适休闲装。",
+      "feeNote": "印度游客 ₹50；国际游客另有票价（上线前请核实）。"
+    },
+    "mdu-kaikari-sandhai": {
+      "name": "凯卡里蔬菜早市 (Kaikari Sandhai)",
+      "summary": "热闹的本地农贸市场，摆满马杜赖茉莉花、芭蕉与新鲜农田蔬菜。",
+      "darshanInfo": "6:00–11:00 最新鲜；建议携带帆布袋与零钱。",
+      "dressCode": "耐脏舒适的包头鞋。",
+      "feeNote": "免费进入。"
+    },
+    "mdu-pandi-bazaar": {
+      "name": "潘迪集市与古廊手工艺巷",
+      "summary": "集中展示松古迪扎染棉纱丽、黄铜油灯与棕榈叶编织篮的手作街区。",
+      "darshanInfo": "多数店铺 10:00 开门，可直接支持本地织工。",
+      "dressCode": "休闲便装。",
+      "feeNote": "免费逛街。"
+    },
+    "mdu-teppakulam-food": {
+      "name": "圣水池夜市小吃与 Jigarthanda",
+      "summary": "夜幕下的池畔摊位聚集着冰爽 Jigarthanda 甜饮与地道烤饼。",
+      "darshanInfo": "18:30 后池畔最为热闹。",
+      "dressCode": "轻松晚间休闲装。",
+      "feeNote": "人均品尝约 ₹150（上线前请核实）。"
+    },
+    "mdu-vaigai-walk": {
+      "name": "怀盖河畔与古水坝步道",
+      "summary": "沿桑伽姆古诗传颂的怀盖河岸展开的清晨静谧步道。",
+      "darshanInfo": "6:00–7:30 晨雾鸟鸣最宜人。",
+      "dressCode": "轻薄棉服与凉鞋。",
+      "feeNote": "免费开放。"
+    },
+    "mdu-samanar-hills": {
+      "name": "萨马纳尔山（耆那教石窟与莲池）",
+      "summary": "拥有 2,000 年历史泰米尔婆罗米铭文、岩壁浮雕与清幽莲花池。",
+      "darshanInfo": "约 20 分钟缓坡石阶；建议 9:30 前避暑游览。",
+      "dressCode": "运动鞋；自备饮用水。",
+      "feeNote": "免费古迹。"
+    },
+    "mdu-kutladampatti-falls": {
+      "name": "库特拉丹帕蒂瀑布与生态林",
+      "summary": "掩映在酸角树与竹林间的季节性山间飞瀑。",
+      "darshanInfo": "水量随季风变化；需在林区入口登记。",
+      "dressCode": "速干衣物与防滑鞋。",
+      "feeNote": "林区入口约 ₹30（上线前请核实）。"
+    },
+    "mdu-kaveri-vaigai-link": {
+      "name": "马达库兰观鸟水塘",
+      "summary": "受高韦里-怀盖传统水利智慧启发的古蓄水塘，常有鹳鸟栖息。",
+      "darshanInfo": "16:30–18:00 东堤夕阳观鸟最佳。",
+      "dressCode": "素色休闲装。",
+      "feeNote": "免费开放。"
+    },
+    "mdu-gandhi-lawn": {
+      "name": "甘地纪念博物馆庭院",
+      "summary": "绿荫掩映的古宫殿草坪（提示：室内展厅每周五闭馆）。",
+      "darshanInfo": "除周五外 10:00–17:45 开放。",
+      "dressCode": "得体休闲装。",
+      "feeNote": "庭院免费（上线前请核实）。"
+    },
+    "mdu-thiruparankundram-eve": {
+      "name": "蒂鲁帕朗昆德拉姆日落山脊",
+      "summary": "在山顶晚风中看马杜赖南部万家灯火与寺灯渐亮。",
+      "darshanInfo": "日落约在 18:10，适合静心小憩。",
+      "dressCode": "轻薄棉衣。",
+      "feeNote": "免费开放。"
+    },
+    "mdu-teppakulam-eve": {
+      "name": "万迪尤尔圣水池夜景",
+      "summary": "17 世纪巨大石阶水池与灯火映照的池心亭台。",
+      "darshanInfo": "沿池散步开放至 21:00；可选划船体验。",
+      "dressCode": "晚间休闲装。",
+      "feeNote": "漫步免费；游船 ₹50（上线前请核实）。"
+    },
+    "kmu-kasi-viswanathar": {
+      "name": "卡西维斯瓦纳塔尔神庙",
+      "summary": "紧邻马哈马哈姆圣池的古老湿婆神庙，内设九大圣河女神殿。",
+      "darshanInfo": "清晨 6:00 宁静早祷，出门即达圣池石阶。",
+      "dressCode": "遮肩盖膝的传统或端庄服饰。",
+      "feeNote": "免费入场。"
+    },
+    "kmu-someswarar": {
+      "name": "索梅斯瓦拉尔与阿迪贡贝斯瓦拉尔双庙",
+      "summary": "以朱罗王朝石柱雕刻与清晨唢呐雅乐著称的城镇核心古庙。",
+      "darshanInfo": "上午 6:00–12:30 开放，工作日尤为安静。",
+      "dressCode": "端庄庙宇着装。",
+      "feeNote": "免费入场。"
+    },
+    "kmu-sarangapani": {
+      "name": "萨兰加帕尼毗湿奴神庙",
+      "summary": "拥有 11 层巍峨塔门与马车造型石刻主殿的壮丽古刹。",
+      "darshanInfo": "上午开放至 12:30，可细赏古典舞蹈浮雕。",
+      "dressCode": "端庄着装。",
+      "feeNote": "免费入场。"
+    },
+    "kmu-nageswaran": {
+      "name": "纳格斯瓦兰太阳神庙",
+      "summary": "早期朱罗艺术杰作，建筑朝向精准令春分阳光直射内殿。",
+      "darshanInfo": "下午 16:30 重新开放，石廊清幽。",
+      "dressCode": "端庄庙宇着装。",
+      "feeNote": "免费入场。"
+    },
+    "kmu-chakrapani": {
+      "name": "查克拉帕尼神庙",
+      "summary": "毗邻高韦里河浴场的八臂法轮圣殿。",
+      "darshanInfo": "傍晚 18:00–19:30 点灯瞻仰氛围绝佳。",
+      "dressCode": "端庄着装。",
+      "feeNote": "免费入场。"
+    },
+    "kmu-flower-market": {
+      "name": "贡伯戈讷姆清晨鲜花市场",
+      "summary": "主要由本地女性经营的芳香早市，编织供给全城神庙的茉莉与莲花花环。",
+      "darshanInfo": "5:30–8:30 最具烟火气。",
+      "dressCode": "易清洗的凉鞋。",
+      "feeNote": "免费参观。"
+    },
+    "kmu-kaikari-market": {
+      "name": "贡伯戈讷姆 Kaikari 农贸市场",
+      "summary": "汇集高韦里三角洲槟榔叶、大蕉、冬瓜与咖喱叶的本地市场。",
+      "darshanInfo": "上午交易活跃，尽览鱼米之乡日常。",
+      "dressCode": "舒适步行装。",
+      "feeNote": "免费开放。"
+    },
+    "kmu-kaveri-pond": {
+      "name": "查克拉帕尼河阶圣池",
+      "summary": "绿树掩映的高韦里河石阶与静谧水塘。",
+      "darshanInfo": "上午 9:00 前最为宁静，请尊重晨浴居民。",
+      "dressCode": "得体休闲装。",
+      "feeNote": "免费开放。"
+    },
+    "kmu-mahamaham-tank": {
+      "name": "马哈马哈姆圣池与黄铜匠巷",
+      "summary": "占地 6 英亩、环绕 16 座石亭的圣池，周边是世代相传的黄铜油灯作坊。",
+      "darshanInfo": "全天开放；可顺访 Kammalar 街手工作坊。",
+      "dressCode": "建议中午前佩戴遮阳帽。",
+      "feeNote": "免费开放。"
+    },
+    "kmu-degree-coffee": {
+      "name": "百年黄铜杯 Degree 滤泡咖啡摊",
+      "summary": "用鲜牛乳与双铜杯高拉起泡的地道南印滤泡咖啡与热炸点心。",
+      "darshanInfo": "16:30 现煮咖啡香气四溢。",
+      "dressCode": "休闲装。",
+      "feeNote": "咖啡加点心约 ₹80（上线前请核实）。"
+    },
+    "kmu-kaveri-arasalar": {
+      "name": "高韦里与阿拉萨拉尔交汇河岸",
+      "summary": "榕树气根庇荫下的宁静河岸，时见本地渔民划着圆形竹筏。",
+      "darshanInfo": "清晨 6:00 薄雾缭绕。",
+      "dressCode": "舒适步履凉鞋。",
+      "feeNote": "免费河岸。"
+    },
+    "kmu-thirubuvanam-groves": {
+      "name": "蒂鲁布瓦南椰林与莲花水渠",
+      "summary": "城东翠绿稻田、荷花灌溉渠与传统手织真丝村落。",
+      "darshanInfo": "清晨沿乡间田埂慢游极为惬意。",
+      "dressCode": "轻薄棉质服装。",
+      "feeNote": "免费乡村小径。"
+    },
+    "kmu-kallanai-day": {
+      "name": "卡拉奈古石坝 (Grand Anicut)",
+      "summary": "2,000 年前朱罗王朝修建的巨型水坝，至今仍在滋养整个三角洲。",
+      "darshanInfo": "距城区约 1 小时车程，推荐搭配全日包车。",
+      "dressCode": "防晒休闲装。",
+      "feeNote": "公园免费（停车费上线前请核实）。"
+    },
+    "kmu-kollidam-sunset": {
+      "name": "科利丹河沙洲日落",
+      "summary": "城北宽阔的金色河滩，黄昏时白鹭成群栖息。",
+      "darshanInfo": "17:00–18:15 河风清凉。",
+      "dressCode": "适合沙地行走的凉鞋。",
+      "feeNote": "免费开放。"
+    },
+    "kmu-darasuram": {
+      "name": "达拉苏拉姆艾拉瓦特斯瓦拉神庙",
+      "summary": "联合国教科文组织世界遗产，以会发声的音乐石阶与精微石雕闻名。",
+      "darshanInfo": "16:00 斜阳令花岗岩雕刻轮廓分明。",
+      "dressCode": "遮肩盖膝；石殿内需赤脚。",
+      "feeNote": "印度游客 ₹40 / 国际游客 ₹600 ASI 门票（上线前请核实）。"
+    },
+    "kmu-swamimalai": {
+      "name": "斯瓦米马莱山庙与青铜工坊",
+      "summary": "山顶穆鲁干神庙与山脚传统的失蜡法五金青铜铸造作坊。",
+      "darshanInfo": "60 级缓坡石阶；17:30 前可观摩工匠制模。",
+      "dressCode": "端庄着装。",
+      "feeNote": "神庙免费。"
+    },
+    "kmu-mahamaham-eve": {
+      "name": "马哈马哈姆圣池暮色倒影",
+      "summary": "沿石阶漫步，看古塔门在静谧池水中泛起金色倒影。",
+      "darshanInfo": "18:30 左右亮灯，当地人散步氛围安宁。",
+      "dressCode": "晚间休闲装。",
+      "feeNote": "免费开放。"
+    }
+  },
+  "vendorsTitle": "认证本地向导与赋能商户",
+  "vendorsSubtitle": "每一笔预订都将公平收入直接送达认证泰米尔纳德向导、电动突突车司机、女性合作社与手艺人。",
+  "vendorRoles": {
+    "guide": "文化向导",
+    "driver": "突突车伙伴",
+    "artisan": "本地匠人",
+    "eatery": "地道食铺"
+  },
+  "vendors": {
+    "loc-mdu-guide-1": {
+      "roleLabel": "认证神庙与历史文化向导",
+      "bio": "可用泰米尔语、英语与德语带领清晨徒步，讲解桑伽姆诗歌与雕刻艺术。",
+      "specialty": "凌晨 4:00 米纳克希晨曦导览"
+    },
+    "loc-mdu-artisan-1": {
+      "roleLabel": "女性主导·松古迪手织扎染合作社",
+      "bio": "28 位女织工坚持天然植物染色工艺，制作传统马杜赖扎染棉布。",
+      "specialty": "现场扎染工艺演示"
+    },
+    "loc-mdu-eatery-1": {
+      "roleLabel": "家族经营杂粮与 Jigarthanda 甜品铺",
+      "bio": "选用棕榈糖、杏仁胶与慢熬鲜奶，还原最地道的马杜赖清凉饮。",
+      "specialty": "传统古法 Jigarthanda"
+    },
+    "loc-mdu-driver-1": {
+      "roleLabel": "零排放电动文化突突车",
+      "bio": "熟知老城所有单行道与神庙最近的存鞋口下车点。",
+      "specialty": "静音清晨古庙环线"
+    },
+    "loc-kmu-guide-1": {
+      "roleLabel": "朱罗建筑与铭文向导",
+      "bio": "专攻达拉苏拉姆石雕、太阳庙天文朝向及高韦里河民俗历史。",
+      "specialty": "达拉苏拉姆世界遗产导览"
+    },
+    "loc-kmu-artisan-1": {
+      "roleLabel": "失蜡法青铜铸造世家工坊",
+      "bio": "三代传承匠人以高韦里河泥制模，手工铸造传统黄铜与青铜油灯。",
+      "specialty": "斯瓦米马莱失蜡铸铜"
+    },
+    "loc-kmu-eatery-1": {
+      "roleLabel": "女性运营·滤泡咖啡合作社",
+      "bio": "现烘咖啡豆经黄铜滤壶萃取，搭配蕉叶现做热食。",
+      "specialty": "地道 Degree 滤泡咖啡"
+    },
+    "loc-kmu-driver-1": {
+      "roleLabel": "电动突突车与三角洲向导",
+      "bio": "顺畅串联城区古庙与蒂鲁布瓦南椰林、斯瓦米马莱工坊。",
+      "specialty": "高韦里三角洲全日环线"
+    }
+  }
+}

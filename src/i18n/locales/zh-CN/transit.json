@@ -1,0 +1,47 @@
+{
+  "_meta": { "status": "needs native review" },
+  "title": "公交与铁路换乘指南",
+  "subtitle": "自动为您匹配距离首站与末站最近的汽车站和火车站。",
+  "nearestArrivalTitle": "推荐抵达枢纽（近第一站）",
+  "nearestDepartureTitle": "推荐离开枢纽（近最后一站）",
+  "firstStopLabel": "第一站",
+  "lastStopLabel": "最后一站",
+  "distanceFromStop": "{{km}} 公里 · 约 {{mins}} 分钟",
+  "hubTypes": {
+    "busStand": "汽车客运站",
+    "railwayStation": "火车站"
+  },
+  "firstServiceLabel": "首班车",
+  "lastServiceLabel": "末班车",
+  "approxBusFare": "市内公交车费",
+  "approxAutoFare": "枢纽出发突突车",
+  "allHubsTitle": "当地全部主要交通枢纽",
+  "directionsTitle": "到站换乘指引",
+  "hubs": {
+    "mdu-junction": {
+      "name": "马杜赖枢纽火车站 (Madurai Junction)",
+      "directions": "从东出口前往 West Veli Street，乘突突车 5 分钟或步行 12 分钟即可到达米纳克希安曼神庙西塔。",
+      "platformHint": "1 号站台东出口外设有官方预付费突突车亭。"
+    },
+    "mdu-periyar-bus": {
+      "name": "佩里亚尔汽车站 (Periyar Bus Stand)",
+      "directions": "紧邻火车站的市中心交通枢纽，多路公交直达西塔门、纳亚克宫殿及圣水池。",
+      "platformHint": "3–6 号站台发往 Teppakulam 与 Thiruparankundram 方向。"
+    },
+    "mdu-mattuthavani-bus": {
+      "name": "马图塔瓦尼 (MGR) 综合长途客运站",
+      "directions": "连接钦奈、蒂鲁吉拉伯利及拉梅斯瓦拉姆的主客运站。可乘 77A 路公交或突突车约 20 分钟至神庙区。",
+      "platformHint": "外侧前排站台每 8–10 分钟发出一班市内公交。"
+    },
+    "kmu-bus-stand": {
+      "name": "贡伯戈讷姆新汽车站",
+      "directions": "位于马哈马哈姆圣池以东 1.2 公里。步行或乘 5 分钟突突车直达 Kasi Viswanathar 与 Sarangapani 神庙街。",
+      "platformHint": "前往 Swamimalai、Darasuram 与坦贾武尔的班车在 1–4 号站台发车。"
+    },
+    "kmu-railway-station": {
+      "name": "贡伯戈讷姆火车站",
+      "directions": "可乘火车直达钦奈 Egmore、蒂鲁吉拉伯利及坦贾武尔。沿 Station Road 行约 1.1 公里即到圣池。",
+      "platformHint": "主门廊外即有本地突突车停靠点。"
+    }
+  }
+}

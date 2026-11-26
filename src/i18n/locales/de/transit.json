@@ -1,0 +1,47 @@
+{
+  "_meta": { "status": "needs native review" },
+  "title": "Bus- & Bahn-Nahverkehrsführer",
+  "subtitle": "Nächstgelegene Busbahnhöfe und Bahnhöfe passend zu Ihrem ersten und letzten Halt.",
+  "nearestArrivalTitle": "Bester Ankunftspunkt (Erster Halt)",
+  "nearestDepartureTitle": "Bester Abfahrtspunkt (Letzter Halt)",
+  "firstStopLabel": "Erster Halt",
+  "lastStopLabel": "Letzter Halt",
+  "distanceFromStop": "{{km}} km · ~{{mins}} Min.",
+  "hubTypes": {
+    "busStand": "Busbahnhof",
+    "railwayStation": "Bahnhof"
+  },
+  "firstServiceLabel": "Erster Bus / Zug",
+  "lastServiceLabel": "Letzter Bus / Zug",
+  "approxBusFare": "Stadtbus-Tarif",
+  "approxAutoFare": "Rikscha ab Station",
+  "allHubsTitle": "Alle wichtigen Verkehrsknotenpunkte",
+  "directionsTitle": "Wegbeschreibung vor Ort",
+  "hubs": {
+    "mdu-junction": {
+      "name": "Bahnhof Madurai Junction",
+      "directions": "Ausgang Osttor Richtung West Veli Street nehmen: 5 Minuten per Autorikscha oder 12 Minuten zu Fuß bis zum Westturm von Meenakshi Amman.",
+      "platformHint": "Offizieller Prepaid-Rikschastand direkt vor Gleis 1 Ostausgang."
+    },
+    "mdu-periyar-bus": {
+      "name": "Periyar Busbahnhof",
+      "directions": "Zentraler Knotenpunkt direkt neben Madurai Junction. Häufige Stadtbusse fahren Richtung Westturm, Nayakkar Mahal und Teppakulam.",
+      "platformHint": "Bussteige 3–6 bedienen Teppakulam und Thiruparankundram."
+    },
+    "mdu-mattuthavani-bus": {
+      "name": "Mattuthavani (MGR) Zentraler Busbahnhof",
+      "directions": "Fernbusbahnhof für Chennai, Trichy und Rameswaram. Stadtbus 77A oder 20 Minuten Autorikscha über Anna Nagar ins Tempelzentrum.",
+      "platformHint": "Stadtbusse fahren alle 8–10 Minuten vom vorderen Außensteig ab."
+    },
+    "kmu-bus-stand": {
+      "name": "Neuer Busbahnhof Kumbakonam",
+      "directions": "1,2 km östlich des Mahamaham-Beckens. Zu Fuß oder 5 Minuten per Rikscha direkt zu den Straßen von Kasi Viswanathar und Sarangapani.",
+      "platformHint": "Busse nach Swamimalai, Darasuram und Thanjavur ab Steig 1–4."
+    },
+    "kmu-railway-station": {
+      "name": "Bahnhof Kumbakonam",
+      "directions": "Direktverbindung ab Chennai Egmore, Trichy und Thanjavur. Über die Station Road sind es 1,1 km bis zum Mahamaham-Becken.",
+      "platformHint": "Lokaler Rikschastand direkt vor dem Haupteingang."
+    }
+  }
+}

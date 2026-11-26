@@ -1,0 +1,23 @@
+{
+  "_meta": { "status": "needs native review" },
+  "greetings": {
+    "enIN": "Welcome",
+    "ta": "வணக்கம்",
+    "te": "స్వాగతం",
+    "kn": "ಸ್ವಾಗತ",
+    "ml": "സ്వాഗതം",
+    "hi": "स्वागत है",
+    "de": "Willkommen",
+    "zhCN": "欢迎",
+    "enGB": "Welcome, Traveller"
+  },
+  "heroSubtitle": "Kuratierte Eintages-Kulturrouten durch Tamil Nadu – komplett in Ihrer Sprache, getragen von lokalen Rikscha-Fahrern, Guides und Weberinnen.",
+  "missionTitle": "Lokaler Tourismus, Gestärkt",
+  "missionBody": "Transparente Autorikscha-Preise, authentische Tempel-Morgenzeiten und direkte Einnahmen für lokale Fahrer, Guides und Frauenkooperativen.",
+  "selectLanguageTitle": "Wählen Sie Ihre bevorzugte Sprache",
+  "selectLanguageHint": "Jede Ansicht, Ortsbeschreibung, Preisaufschlüsselung und Nahverkehrsroute passt sich an.",
+  "pauseGreeting": "Begrüßungsanimation anhalten",
+  "playGreeting": "Begrüßungsanimation abspielen",
+  "startPlanningCta": "Tagesroute jetzt planen",
+  "deviceDetectedHint": "Von Ihrem Gerät erkannt"
+}

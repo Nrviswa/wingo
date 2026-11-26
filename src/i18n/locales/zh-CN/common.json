@@ -1,0 +1,40 @@
+{
+  "_meta": { "status": "needs native review" },
+  "brandName": "Wingo 旅游",
+  "brandTagline": "赋能本地文旅",
+  "skipToContent": "跳至主要内容",
+  "back": "返回",
+  "continue": "继续",
+  "cancel": "取消",
+  "close": "关闭",
+  "save": "保存",
+  "retry": "重试",
+  "loading": "正在为您准备定制本地行程...",
+  "offlineReady": "已离线保存",
+  "cachedOffline": "行程已缓存，弱网环境下仍可使用",
+  "approxPrefix": "约",
+  "freeEntry": "免费入场",
+  "verifyBeforeLaunch": "出行前请当地核实",
+  "darkMode": "深色模式",
+  "lightMode": "浅色模式",
+  "languageLabel": "语言",
+  "chooseLanguage": "选择您的语言",
+  "searchPlaceholder": "搜索神庙、集市、河流...",
+  "noSearchResults": "该城镇暂无匹配您的地点。",
+  "nav": {
+    "explore": "行程",
+    "map": "路线图",
+    "locals": "本地伙伴",
+    "trips": "我的行程"
+  },
+  "badges": {
+    "localOwned": "本地自营",
+    "womenRun": "女性运营",
+    "ecoFriendly": "生态友好"
+  },
+  "errors": {
+    "networkFallback": "正在显示离线缓存行程。",
+    "selectAtLeastOne": "请至少选择一个地点以查看路线图。",
+    "generic": "出现了一些问题，请重试。"
+  }
+}

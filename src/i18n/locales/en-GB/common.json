@@ -1,0 +1,39 @@
+{
+  "brandName": "Wingo Tourism",
+  "brandTagline": "Local Tourism, Empowered",
+  "skipToContent": "Skip to main content",
+  "back": "Back",
+  "continue": "Continue",
+  "cancel": "Cancel",
+  "close": "Close",
+  "save": "Save",
+  "retry": "Retry",
+  "loading": "Preparing your curated local journey...",
+  "offlineReady": "Saved offline",
+  "cachedOffline": "Itinerary cached for low-signal travel",
+  "approxPrefix": "approx.",
+  "freeEntry": "Free entry",
+  "verifyBeforeLaunch": "Verify locally before travel",
+  "darkMode": "Dark mode",
+  "lightMode": "Light mode",
+  "languageLabel": "Language",
+  "chooseLanguage": "Choose your language",
+  "searchPlaceholder": "Search temples, markets, rivers...",
+  "noSearchResults": "No places matched your search in this town.",
+  "nav": {
+    "explore": "Plan",
+    "map": "Route Map",
+    "locals": "Locals",
+    "trips": "My Trips"
+  },
+  "badges": {
+    "localOwned": "Local Owned",
+    "womenRun": "Women-Run",
+    "ecoFriendly": "Eco-friendly"
+  },
+  "errors": {
+    "networkFallback": "Showing offline cached itinerary.",
+    "selectAtLeastOne": "Please select at least one place to view your route map.",
+    "generic": "Something went wrong. Please try again."
+  }
+}

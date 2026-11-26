@@ -1,0 +1,40 @@
+{
+  "_meta": { "status": "needs native review" },
+  "brandName": "Wingo Tourism",
+  "brandTagline": "Lokaler Tourismus, Gestärkt",
+  "skipToContent": "Zum Hauptinhalt springen",
+  "back": "Zurück",
+  "continue": "Weiter",
+  "cancel": "Abbrechen",
+  "close": "Schließen",
+  "save": "Speichern",
+  "retry": "Erneut versuchen",
+  "loading": "Ihre kuratierte Tagestour wird vorbereitet...",
+  "offlineReady": "Offline gespeichert",
+  "cachedOffline": "Reiseplan für schwaches Netz zwischengespeichert",
+  "approxPrefix": "ca.",
+  "freeEntry": "Eintritt frei",
+  "verifyBeforeLaunch": "Vor Reiseantritt lokal prüfen",
+  "darkMode": "Dunkelmodus",
+  "lightMode": "Hellmodus",
+  "languageLabel": "Sprache",
+  "chooseLanguage": "Sprache auswählen",
+  "searchPlaceholder": "Tempel, Märkte, Flüsse suchen...",
+  "noSearchResults": "Keine passenden Orte in dieser Stadt gefunden.",
+  "nav": {
+    "explore": "Planer",
+    "map": "Routenkarte",
+    "locals": "Partner",
+    "trips": "Meine Reisen"
+  },
+  "badges": {
+    "localOwned": "Lokal geführt",
+    "womenRun": "Von Frauen geleitet",
+    "ecoFriendly": "Umweltfreundlich"
+  },
+  "errors": {
+    "networkFallback": "Offline-Reiseplan wird angezeigt.",
+    "selectAtLeastOne": "Bitte wählen Sie mindestens einen Ort für die Routenkarte aus.",
+    "generic": "Ein Fehler ist aufgetreten. Bitte erneut versuchen."
+  }
+}
